@@ -1,0 +1,26 @@
+.Container {
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+  }
+
+  .child {
+    scroll-snap-align: start;
+    height: 100vh;
+  }
+.home{
+    height: 100vh;
+    background: linear-gradient(
+    to right,
+    #4831d4 0%,
+    #4831d4 67%,
+    #ccf381 50%,
+    #ccf381 100%
+  );    
+
+}
+
+.projects{
+  height: 100vh;
+}
+

@@ -1,0 +1,13 @@
+.qq{
+  display: flex;
+  justify-content: space-evenly;
+
+
+}
+.project-card{
+   width: 250px;
+   border-radius: 20px;
+   background-color: antiquewhite;
+   text-align: center;
+   padding: 10px;
+}

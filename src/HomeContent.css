@@ -1,0 +1,83 @@
+
+.wave {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+
+
+
+.info p{
+  font-size: 40px;
+  margin-top: -30px;
+}
+p.intro_line {
+  font-size: 50px;
+}
+.info h1{
+  margin-bottom: 50px;
+
+}
+.my_name{
+  color: #ccf381;
+  height: 50px;
+  width: 50px;
+}
+.intro_line{
+  font-weight: bold;
+}
+
+.info{
+  display: flex;
+  margin-left: 10%;
+  margin-top: 5%;
+  color: azure;
+}
+.handsome-container{
+  width: 350px;
+  margin-left: 4%;
+  
+
+}
+.handsome{
+  z-index: 1;
+  border-radius: 10px;
+  width: 350px;
+        position: relative;
+}
+
+
+.handsome-background{
+  position: relative;
+  margin-top: -300px;
+  margin-left: 50px;
+  height: 350px;
+  width: 350px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+.drawing{
+  position: absolute;
+  left: 10px;
+}
+
+.intro{
+  display: inline-block;
+  vertical-align: middle;
+}
