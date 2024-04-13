@@ -1,7 +1,7 @@
 import React from 'react'
 import './HomeContent.css';
 import Navbar from './Navbar';
-import Logo from './handsome.jpg'
+import Logo from './handsome1.jpg'
 
 
 export default function HomeContent() {
