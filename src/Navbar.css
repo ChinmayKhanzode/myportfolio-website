@@ -12,7 +12,9 @@
       );     */
       /* float: left; */
       
-      
+  .menu{
+    visibility: hidden;
+  }
  }
  .ck-logo{
   margin-left: 25px;
@@ -60,4 +62,15 @@
 .nav-links li.forward a:hover:before{
   transform: scaleX(1);
   transform-origin: left;
+}
+
+@media screen and (max-width: 768px){
+  .ck-logo{
+  }
+  .nav-links{
+    display: none;
+  }
+  .menu{
+    visibility: visible;
+    }
 }

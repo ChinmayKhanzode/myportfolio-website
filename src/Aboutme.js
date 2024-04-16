@@ -25,63 +25,15 @@ export default function Aboutme() {
         <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
         <div className="name">⠀Birla Cellulose, Kharach</div>
         <div className="duration">
-        <div className="start">May 2024 - June 2024</div>
+        <div className="start">(Upcoming) May 2024 - June 2024</div>
         </div>
         
         </div>
         <hr/>
       </div>
-      <div className="work-card">
-        <div className="job">
-        <h4 className='title'>Web Developer Intern</h4>
-        <div className="type">Internship</div>
-        
-        </div>
-        
-        <div className="company">
-        <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
-        <div className="name">⠀Birla Cellulose, Kharach</div>
-        <div className="duration">
-        <div className="start">May 2024 - June 2024</div>
-        </div>
-        
-        </div>
-        <hr/>
-      </div>
-      <div className="work-card">
-        <div className="job">
-        <h4 className='title'>Web Developer Intern</h4>
-        <div className="type">Internship</div>
-        
-        </div>
-        
-        <div className="company">
-        <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
-        <div className="name">⠀Birla Cellulose, Kharach</div>
-        <div className="duration">
-        <div className="start">May 2024 - June 2024</div>
-        </div>
-        
-        </div>
-        <hr/>
-      </div>
-      <div className="work-card">
-        <div className="job">
-        <h4 className='title'>Web Developer Intern</h4>
-        <div className="type">Internship</div>
-        
-        </div>
-        
-        <div className="company">
-        <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
-        <div className="name">⠀Birla Cellulose, Kharach</div>
-        <div className="duration">
-        <div className="start">May 2024 - June 2024</div>
-        </div>
-        
-        </div>
-        <hr/>
-      </div>
+      
+      
+      
     <h2>
       Coursework
     </h2>

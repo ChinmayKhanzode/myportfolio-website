@@ -1,7 +1,7 @@
 import React from 'react'
 import './HomeContent.css';
 import Navbar from './Navbar';
-import Logo from './handsome.jpg'
+import Logo from './handsome1.jpg'
 
 
 export default function HomeContent() {
@@ -18,7 +18,6 @@ export default function HomeContent() {
       <div className='handsome-container'>
       <img className='handsome' src={Logo} alt="React Logo" />
       <div className="handsome-background"></div>
-      
       </div>
             
     </div>

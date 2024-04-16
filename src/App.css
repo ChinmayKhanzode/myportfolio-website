@@ -24,3 +24,12 @@
   height: 100vh;
 }
 
+@media screen and (max-width: 768px){
+  .Container{
+    scroll-snap-type:none;
+  }
+  .home{
+    background: none;
+    background-color: #4831d4;
+  }
+}

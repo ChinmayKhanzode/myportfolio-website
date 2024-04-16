@@ -24,6 +24,9 @@ export default function Navbar() {
                 <Link to="/contact">Contact Me</Link>
               </li>
             </ul>
+            {/* <div className="menu">
+            <img width="30" height="30" src="https://img.icons8.com/ios/50/000000/menu--v1.png" alt="menu--v1"/> 
+            </div> */}
           </div>
 
       </>

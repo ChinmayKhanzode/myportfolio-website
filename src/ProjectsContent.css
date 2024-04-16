@@ -1,13 +1,41 @@
 .qq{
   display: flex;
-  justify-content: space-evenly;
+  align-items: center;
 
+  justify-content: space-evenly;
+  height: 100vh;
+
+  background: linear-gradient(-45deg,
+    
+    #4831d4 67%,
+    #ccf381 50%,
+    #ccf381 100%
+  );    
+  background-size: 400% 400%;
+  animation: gradient 5s ease infinite;
 
 }
+
 .project-card{
    width: 250px;
+   align-items: center;
+   height: 350px;
    border-radius: 20px;
    background-color: antiquewhite;
    text-align: center;
    padding: 10px;
+}
+
+
+
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
 }
