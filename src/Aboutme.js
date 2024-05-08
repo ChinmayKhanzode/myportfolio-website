@@ -25,7 +25,7 @@ export default function Aboutme() {
         <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
         <div className="name">⠀Birla Cellulose, Kharach</div>
         <div className="duration">
-        <div className="start">(Upcoming) May 2024 - June 2024</div>
+        <div className="start">(Current) May 2024 - June 2024</div>
         </div>
         
         </div>
