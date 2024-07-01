@@ -16,7 +16,7 @@ export default function Aboutme() {
       <h2>Work Experieance</h2>
       <div className="work-card">
         <div className="job">
-        <h4 className='title'>Web Developer Intern</h4>
+        <h4 className='title'>Software Developer Intern</h4>
         <div className="type">Internship</div>
         
         </div>
@@ -25,7 +25,7 @@ export default function Aboutme() {
         <img className='icon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVR4nO2WwQ6AIAxD+f+frhcPxigELG6UvoSDMzF5ssJKMesB0goHaiKjWOQr7NYIazWoiczCIqw/dq/3PrfqdORFWFgk645MH3nwU0ZkREaBRSbvCOu74cevjEgvcEbUMgKLJMsIC1kROCMNPGuVzYdGqIwoUBGRaS0ZEfge2b21WMiKIDoj11rt3TYivcAiJ26tbBl5opaRN8IzsqwIkq8mMiKmBHIAGcKdfwldIgoAAAAASUVORK5CYII="/>
         <div className="name">⠀Birla Cellulose, Kharach</div>
         <div className="duration">
-        <div className="start">(Current) May 2024 - June 2024</div>
+        <div className="start">(2 Mons) May 2024 - June 2024</div>
         </div>
         
         </div>
